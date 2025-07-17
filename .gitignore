@@ -1,0 +1,19 @@
+# Archivos delproyecto de netbeans
+/build/
+/dist/
+/nbproject/private/
+/nbbuild/
+/test/
+nb-configuration.xml
+*.jar
+*.war
+*.ear
+*.zip
+*.rar
+*.log
+*.swp
+
+# registros de fallos de la JVM
+hs_err_pid*.log
+.DS_Store
+Thumbs.db
